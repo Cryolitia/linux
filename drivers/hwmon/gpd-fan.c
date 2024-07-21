@@ -676,7 +676,7 @@ module_init(gpd_fan_init)
 module_exit(gpd_fan_exit)
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Cryolitia <Cryolitia@gmail.com>");
+MODULE_AUTHOR("Cryolitia PukNgae <Cryolitia@gmail.com>");
 MODULE_DESCRIPTION("GPD Devices fan control driver");
 MODULE_ALIAS("dmi:*:svnGPD:pnG1617-01:*");
 MODULE_ALIAS("dmi:*:svnGPD:pnG1618-04:*");
